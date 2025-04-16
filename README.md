@@ -1,17 +1,14 @@
 # **Hey there 👋, I'm Gyuyeonjo**
 Backend Developer | AI enthusiast | Music production
 
-### Current
----
+## Current
 2022 ~ current: Department of Computer Engineering, Inha University<br>
 2025 ~ current: Reader of publiT - a writing creation platform
 
-### Pevious
----
+## Pevious
 2023 ~ 2024: military service
 
-### Tech Skill
----
+## Tech Skill
 backend: nodejs, nestjs<br>
 AI: pytorch, tensorflow<br>
 database: mysql<br>
@@ -19,11 +16,6 @@ infra: gcp, docker, aws<br>
 vst development: c++, juce<br>
 frontend: react<br>
 
-### Projects
----
+## Projects
 2023.01 ~ 03: chat-gyupt - Transformer-based chatbot service<br>
 2024.07 ~ 09: RUTaxi - A taxi ride platform in the military<br>
-
-### Blog
----
-[blog-link](https://blog.naver.com/rbdus0715)

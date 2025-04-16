@@ -3,7 +3,7 @@ Backend Developer | AI enthusiast | Music production
 
 ## Current
 - 2022 ~ current: Department of Computer Engineering, Inha University<br>
-- 2025 ~ current: Reader of publiT - a writing creation platform
+- 2025 ~ current: backend developer of publiT - a writing creation platform
 
 ## Pevious
 - 2023 ~ 2024: military service

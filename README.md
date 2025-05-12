@@ -1,4 +1,3 @@
-# **Hey there 👋, I'm Gyuyeonjo**
-Backend Developer
-AI enthusiast
-Music production
+## **Jo Gyu Yeon**
+I am a passionate **Back-end Developer** 🛜<br>
+And love **Music, Audio, AI** 🎵
